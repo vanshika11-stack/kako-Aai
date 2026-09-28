@@ -1,4 +1,7 @@
 # SIH26003 AI-based cognitive gaming &amp; memory assistance platform for elderly dementia patients in North Eastern Region (NER) – SIH 2026
+
+Smart India Hackathon 2026 Category	Software
+Theme	MedTech / BioTech / HealthTech Ministry -Ministry of Development of North Eastern Region (MDoNER)/ 
 # Kako-Aai
 **AI-based cognitive gaming & memory assistance platform for elderly dementia patients in North Eastern Region (NER)**  
 Smart India Hackathon 2026 | Problem Statement ID: SIH26003 
