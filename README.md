@@ -1,13 +1,11 @@
-# kako-Aai
-AI-based cognitive gaming &amp; memory assistance platform for elderly dementia patients in North Eastern Region (NER) – SIH 2026
+# SIH26003 AI-based cognitive gaming &amp; memory assistance platform for elderly dementia patients in North Eastern Region (NER) – SIH 2026
 # Kako-Aai
-
 **AI-based cognitive gaming & memory assistance platform for elderly dementia patients in North Eastern Region (NER)**  
-Smart India Hackathon 2026 | Problem Statement ID: [ENTER CORRECT SIH PS ID]  
-Team: NEuroLife | [Your College Name]
+Smart India Hackathon 2026 | Problem Statement ID: SIH26003 
+Team: NEuroLife | SHARDA UNIVERSITY AGRA
 
 🔗 Live demo / docs: https://gqjkk8cc4g.zite.so  
-🎥 Demo video: [Add YouTube/Drive link]  
+🎥 Demo video:  
 📱 App: `/app` | 🖥 Backend: `/backend` | 🌐 Dashboard: `/dashboard`
 
 ---
